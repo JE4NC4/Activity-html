@@ -61,11 +61,40 @@ main h3 {
 }
 
 ol {
-    margin: 0 45% 0 40%;
+    margin: 0 35%;
     font-size: 20px;
 
 }
 .t_etiquetas{
-    margin: 0 30% 0 40% ;
+    margin:  0% 35% ;
     font-size: 20px;
+}
+
+.bing img {
+    width: 80%;
+    margin: 7% 7% 0 7%
+}
+.google img{
+    width: 80%;
+    margin: 7% 7% 0 7%
+}
+.face img {
+    width: 80%;
+    margin: 7% 7% 0 7%
+}
+.twitt img{
+    width: 80%;
+    margin: 7% 7% 0 7%
+}
+table {
+    display: inline-block;
+    margin-left: 5%;
+    align-self: center;
+}
+table th td{
+
+    font-size: 20px;
+}
+div{
+    margin: 0 10% 0 10%;
 }

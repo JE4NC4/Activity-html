@@ -1,3 +1,100 @@
-header{
-    background-color: rebeccapurple;
+body{
+    background-image: url(fondo.jpg);
+}
+.menu {
+    text-align: center;
+}
+.menu li{
+    display: inline-block;
+    padding: 15px 4% 15px 4%;
+    border: 2px solid #111;
+    border-radius: 10px;
+    background: radial-gradient(circle, #54595f, #3b3e42) ;
+    box-shadow: 16px 10px 15px 0 #333;
+}
+
+.menu a{
+    text-decoration: none;
+ 	color: #fff;
+}
+main{
+    background: radial-gradient(circle, #54595f, #3b3e42) ;
+    padding: 2% 0 11% 0;
+    margin: 30px;
+    box-shadow: 16px 10px 15px  #333;
+    border: 2px solid #111;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+    font-family:'Times New Roman';
+    font-size: 50;
+}
+p{
+    margin: 0 10% 0 10%;
+    text-align: center;
+    font-size: 30;
+}
+footer {
+    background: radial-gradient(circle, #54595f, #3b3e42) ;
+    margin: 30px;
+    box-shadow: 16px 10px 15px  #333;
+    border: 2px solid #111;
+    border-radius: 10px;
+}
+footer h2 {
+    display: inline-block;
+    margin-left: 20%;
+}
+
+.img img {
+    max-width: 60%;
+    margin: 0 20% 0 20%;
+}
+main h2 {
+    font-size: 30px;
+    text-align: center;
+}
+main h3 {
+    font-size: 25px;
+    text-align: center;
+}
+
+ol {
+    margin: 0 35%;
+    font-size: 20px;
+
+}
+.t_etiquetas{
+    margin:  0% 35% ;
+    font-size: 20px;
+}
+
+.bing img {
+    width: 80%;
+    margin: 7% 7% 0 7%
+}
+.google img{
+    width: 80%;
+    margin: 7% 7% 0 7%
+}
+.face img {
+    width: 80%;
+    margin: 7% 7% 0 7%
+}
+.twitt img{
+    width: 80%;
+    margin: 7% 7% 0 7%
+}
+table {
+    display: inline-block;
+    margin-left: 5%;
+    align-self: center;
+}
+table th td{
+
+    font-size: 20px;
+}
+div{
+    margin: 0 10% 0 10%;
 }

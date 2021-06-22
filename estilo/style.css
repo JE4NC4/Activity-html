@@ -3,8 +3,6 @@ body{
 }
 .menu {
     text-align: center;
-    padding: %;
-    margin: 0%;
 }
 .menu li{
     display: inline-block;
@@ -33,7 +31,7 @@ h1{
     font-size: 50;
 }
 p{
-    margin: 0 200 0 200;
+    margin: 0 10% 0 10%;
     text-align: center;
     font-size: 30;
 }
@@ -47,4 +45,27 @@ footer {
 footer h2 {
     display: inline-block;
     margin-left: 20%;
+}
+
+.img img {
+    max-width: 60%;
+    margin: 0 20% 0 20%;
+}
+main h2 {
+    font-size: 30px;
+    text-align: center;
+}
+main h3 {
+    font-size: 25px;
+    text-align: center;
+}
+
+ol {
+    margin: 0 45% 0 40%;
+    font-size: 20px;
+
+}
+.t_etiquetas{
+    margin: 0 30% 0 40% ;
+    font-size: 20px;
 }
